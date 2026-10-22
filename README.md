@@ -13,7 +13,7 @@ AuraHome AI is a proactive home concierge powered by Alexa+ MCP that orchestrate
 
 ## 🚀 Live Demo & Repository Links
 
-* **Live Interactive Simulator:** [https://YOUR-USERNAME.github.io/aurahome-ai/]((https://nebrix-328.github.io/AuraHome-AI/))
+* **Live Interactive Simulator:** ([https://nebrix-328.github.io/AuraHome-AI/])
 * **Hosted MCP Streamable HTTP Endpoint:** `https://aurahome-ai.onrender.com/mcp`
 * **Demo Video (YouTube):** [https://youtube.com/watch?v=YOUR_DEMO_VIDEO](https://youtube.com)
 
